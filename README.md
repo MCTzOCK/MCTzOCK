@@ -1,8 +1,5 @@
 # Hi there! I am MCTzOCK. A frontend and backend developer.
 
-## Skills
-___
-
 ### Frameworks
 ___
 
