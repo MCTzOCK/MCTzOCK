@@ -33,3 +33,8 @@ ___
 ___
 
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/devices/pc.svg"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/devices/mac.svg">
+
+### Stats
+___
+
+![MCTzOCK's Github Stats](https://github-readme-stats.vercel.app/api?username=MCTzOCK&count_private=true&show_icons=true&theme=radical)
