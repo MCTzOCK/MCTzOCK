@@ -1,4 +1,4 @@
-# Hi there! I am MCTzOCK. A frontend and backend developer.
+# Hi there! I am MCTzOCK. A Full-Stack Developer.
 
 ### Frameworks
 ___
