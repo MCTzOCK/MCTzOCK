@@ -7,7 +7,7 @@
 </p>
 
 <p align='center'>
-    <a href="https://mctzock.de">
+    <a href="https://ben-siebert.de">
         <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
     </a>
     <a href="https://discord.gg/YEHzrWVTp6">
