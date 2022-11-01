@@ -13,6 +13,9 @@
     <a href="https://discord.gg/YEHzrWVTp6">
         <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white" />
     </a>
+    <a href="https://visitcount.itsvg.in">
+        <img src="https://visitcount.itsvg.in/api?id=MCTzOCK&label=Profile%20Views&color=1&icon=0&pretty=false" />
+    </a>
 </p>
 
 <p align='center'>
