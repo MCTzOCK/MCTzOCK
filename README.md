@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [SaveWorld](https://saveworld.one)
 
-- 👨‍💻 All of my projects are available at [https://ben-siebert.com/projects/all](https://ben-siebert.com/projects/all)
+- 👨‍💻 All of my projects are available at [https://ben-siebert.com/projects/](https://ben-siebert.com/projects/)
 
 - 📝 I regularly write articles on [https://ben-siebert.com/blog](https://ben-siebert.com/blog)
 
-- 💬 Ask me about **react, chakra-ui, next.js, node, etc.**
+- 💬 Ask me about **react, chakra-ui, next.js, node, ionic, etc.**
 
 - 📫 How to reach me **hello@ben-siebert.de**
 
