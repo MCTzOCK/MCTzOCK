@@ -13,9 +13,7 @@
 
 - 💬 Ask me about **react, chakra-ui, next.js, node, ionic, etc.**
 
-- 📫 How to reach me **hello@ben-siebert.de**
-
-- 📄 Know about my experiences [https://ben-siebert.com/skills](https://ben-siebert.com/skills)
+- 📫 How to reach me: [https://ben-siebert.com/contact](https://ben-siebert.com/contact)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
