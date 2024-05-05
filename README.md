@@ -15,6 +15,8 @@
 
 - 📫 How to reach me: [https://ben-siebert.com/contact](https://ben-siebert.com/contact)
 
+- Take a look at [CodeUp](https://codeup.space) (The project of my heart)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/officialmctzock" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="officialmctzock" height="30" width="40" /></a>
