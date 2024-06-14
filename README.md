@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mctzock" alt="mctzock" /></a> </p>
 
-- 🔭 I’m currently working at PoliticalXChange
+- 🔭 I’m currently working at PoliticalXChange and CodeUp
 
 - 👨‍💻 All of my projects are available at [https://ben-siebert.com/projects/](https://ben-siebert.com/projects/)
 
