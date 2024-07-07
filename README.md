@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://ben-siebert.com/blog](https://ben-siebert.com/blog)
 
-- 💬 Ask me about **react, chakra-ui, next.js, node, ionic, fastify, etc.**
+- 💬 Ask me about **react, chakra-ui, next.js, node, ionic, fastify, react-native, etc.**
 
 - 📫 How to reach me: [https://ben-siebert.com/contact](https://ben-siebert.com/contact)
 
