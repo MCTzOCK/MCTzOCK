@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ben-siebert.com/projects/](https://ben-siebert.com/projects/)
 
-- 📝 I regularly write articles on [https://ben-siebert.com/blog](https://ben-siebert.com/blog)
+- 📝 I sometimes write articles on [https://ben-siebert.com/blog](https://ben-siebert.com/blog)
 
 - 💬 Ask me about **react, chakra-ui, next.js, node, ionic, fastify, react-native, etc.**
 
