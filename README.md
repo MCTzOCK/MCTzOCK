@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on CodeUp
 
-- 👨‍💻 All of my projects are available at [https://ben-siebert.com/projects/](https://ben-siebert.com/projects/)
+- 👨‍💻 All of my projects are available [here](https://ben-siebert.com/about#projects-awards)
 
 - 📝 I sometimes write articles on [https://ben-siebert.com/blog](https://ben-siebert.com/blog)
 
