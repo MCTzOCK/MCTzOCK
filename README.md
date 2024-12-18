@@ -13,7 +13,7 @@
 
 - 📫 How to reach me: [https://ben-siebert.com/contact](https://ben-siebert.com/contact)
 
-- Take a look at [CodeUp](https://codeup.space) or my [other Repositories](https://github.com/MCTzOCK?tab=repositories).
+- Take a look at [CodeUp](https://codeup.space) or my [other projects](https://github.com/MCTzOCK?tab=repositories).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
