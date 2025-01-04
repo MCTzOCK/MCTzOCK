@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available [here](https://ben-siebert.com/about#projects-awards)
 
-- 💬 Ask me about **react, chakra-ui, next.js, node, ionic, fastify, react-native, etc.**
-
 - 📫 How to reach me: [https://ben-siebert.com/contact](https://ben-siebert.com/contact)
 
 - Take a look at [CodeUp](https://codeup.space) or my [other projects](https://github.com/MCTzOCK?tab=repositories).
