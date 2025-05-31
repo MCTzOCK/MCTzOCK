@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: [https://ben-siebert.com/contact](https://ben-siebert.com/contact)
 
-- Take a look at [CodeUp](https://codeup.space) or my [other projects](https://github.com/MCTzOCK?tab=repositories).
+- Take a look at [CodeUp](https://codeup.space) or my [other projects](https://ben-siebert.com/about#projects-awards).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
