@@ -13,6 +13,8 @@
 
 - Take a look at [CodeUp](https://codeup.space) or my [other projects](https://ben-siebert.com/about#projects-awards).
 
+- I also work as a freelancer, so feel free to reach out to me on [Fiverr](https://www.fiverr.com/s/Egv7xde)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/officialmctzock" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="officialmctzock" height="30" width="40" /></a>
