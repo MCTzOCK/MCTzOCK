@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mctzock" alt="mctzock" /></a> </p>
 
-- 🔭 I’m currently working on PoliticalXChange & SaveWorld
+- 🔭 I’m currently working on SaveWorld
 
 - 👨‍💻 All of my projects are available [here](https://ben-siebert.com/about#projects-awards)
 
