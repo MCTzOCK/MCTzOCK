@@ -1,5 +1,5 @@
-<h1 align="center">Hey, I am Ben Siebert</h1>
-<h3 align="center">a fullstack developer & student</h3>
+## Hey, I am Ben Siebert
+### a fullstack developer from Germany
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mctzock&label=Profile%20views&color=0e75b6&style=flat" alt="mctzock" /> </p>
 
