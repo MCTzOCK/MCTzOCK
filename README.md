@@ -11,8 +11,6 @@
 
 - 📫 How to reach me at [hello@ben-siebert.de](mailto:hello@ben-siebert.de)
 
-- Take a look at my [projects](https://ben-siebert.com/about#projects-awards).
-
 - 💬 I also work as a freelancer, so feel free to reach out to me on [Fiverr](https://www.fiverr.com/s/Egv7xde).
 
 <h3 align="left">Connect with me:</h3>
