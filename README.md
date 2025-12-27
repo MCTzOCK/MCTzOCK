@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mctzock" alt="mctzock" /></a> </p>
 
-- 🔭 I'm currently working on [SaveWorld](https://saveworld.one) and studying CS at the [RUB](https://rub.de)
+- 🔭 I'm currently working on [SaveWorld](https://saveworld.one) and studying CS at the [RUB](https://rub.de).
 
-- 👨‍💻 All of my projects are available [here](https://ben-siebert.com/about#projects-awards)
+- 👨‍💻 All of my projects are available [here](https://ben-siebert.com/about#projects-awards).
 
-- 📫 How to reach me at [hello@ben-siebert.de](mailto:hello@ben-siebert.de)
+- 📫 How to reach me at [hello@ben-siebert.de](mailto:hello@ben-siebert.de).
 
-- 💬 I also work as a freelancer, so feel free to reach out to me on [Fiverr](https://www.fiverr.com/s/Egv7xde)
+- 💬 I also work as a freelancer, so feel free to reach out to me on [Fiverr](https://www.fiverr.com/s/Egv7xde).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
