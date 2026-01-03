@@ -11,7 +11,7 @@
 
 - 📫 How to reach me at [hello@ben-siebert.de](mailto:hello@ben-siebert.de).
 
-- 💬 I also work as a freelancer, feel free to reach out to me on [Fiverr](https://www.fiverr.com/s/Egv7xde).
+- 💬 I also work as a freelancer, feel free to reach out to me on [Fiverr](https://www.fiverr.com/s/Egv7xde)!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
