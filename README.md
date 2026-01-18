@@ -3,7 +3,7 @@ a fullstack developer, freelancer and student from Germany.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mctzock&label=Profile%20views&color=0e75b6&style=flat" alt="mctzock" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mctzock" alt="mctzock" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mctzock" alt="mctzock" /></a> </p>-->
 
 - 🔭 I'm currently working on [SaveWorld](https://saveworld.one) and studying CS at the [RUB](https://rub.de).
 
